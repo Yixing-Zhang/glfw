@@ -1,4 +1,5 @@
-bin-int/Debug-windows-x86_64/GLFW/GLFW.log
+bin-int/
+bin/
 
 # External junk
 .DS_Store

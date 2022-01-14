@@ -1,5 +1,5 @@
-bin-int/
-bin/
+bin-int
+bin
 
 # External junk
 .DS_Store
